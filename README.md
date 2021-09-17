@@ -13,4 +13,4 @@
 -  "gitrocket",
 -  "hyper-bloodbath"
 
-![gengar](gengar.png?raw=true)
+![gengar](gengar.PNG?raw=true)
