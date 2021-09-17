@@ -1,6 +1,6 @@
 # Hyper-js-Customization
 
-![project config](https://img.shields.io/badge/project-config-brightgreen.svg?style=flat-square)
+![project customization](https://img.shields.io/badge/project-customization-brightgreen.svg?style=flat-square)
 
 > Config customization (plugins &amp; themes) for Hyper terminal
 
